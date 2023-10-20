@@ -1,0 +1,30 @@
+body {
+    background-color: blue;
+}
+header {
+      height: 500px;
+      background-image: url(top.jpeg);
+
+}
+
+.top {
+    height: 100px;
+    background-color: black;
+    display: flex;
+
+}
+
+.top-buttons {
+    padding-left: 5%;
+    padding-top: 2%;
+    margin-right: 50px;
+}
+
+footer {
+  background-color: black;
+    position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 80px;
+}
